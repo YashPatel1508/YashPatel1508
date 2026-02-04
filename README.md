@@ -1,4 +1,4 @@
-# 👋 Hi, I'm a Python Developer
+# 👋 Hi, I'm a Yash Kaila
 
 Welcome to my GitHub profile! 🚀  
 I’m a **Python Developer** with strong experience in backend development, databases, automation, and production-grade systems. I enjoy building scalable applications and exploring AI-powered solutions for real-world use cases.
